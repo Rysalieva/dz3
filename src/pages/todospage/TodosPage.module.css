@@ -1,0 +1,9 @@
+.container {
+    padding: 20px;
+    background-color: lightyellow;
+}
+
+.todoList {
+    display: flex;
+    flex-direction: column;
+}
